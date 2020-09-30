@@ -1,3 +1,4 @@
 Content file current file
-Dev chenge file
+Dev change file
 Test rebase 2 from dev
+Resolve merge conflict 
