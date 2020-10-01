@@ -2,6 +2,10 @@ Hello Git! 123
 This in new line.
 Add new line.
 Add two string.
+<<<<<<< HEAD
 Test branch
 Test rebase command
 Test rebase 2
+=======
+Test branch
+>>>>>>> bcb8d07... Revert "Test rebase command"
