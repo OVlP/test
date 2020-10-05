@@ -1,4 +1,9 @@
 Content file current file
+<<<<<<< HEAD
 Dev change file
 Test rebase 2 from dev
 Resolve merge conflict 
+=======
+Dev chenge file
+
+>>>>>>> f8bbcdf... Commit change devfile.txt from master
