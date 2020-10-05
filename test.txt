@@ -4,3 +4,4 @@ Add new line.
 Add two string.
 Test branch
 Test rebase command
+Test rebase 2
